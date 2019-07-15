@@ -1,4 +1,4 @@
 # emrecog
 # POC Data Files v 0.0 
-Emotion Recognition System
-Facial Recognition System Using Machine Learning
+Emotion Recognition System 
+Data files from an already existing Facial Recognition System That uses Machine Learning.
