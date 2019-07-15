@@ -1,2 +1,2 @@
-# emrecog
-Emotion Recognition System
+# Emotion Recognition System {emrecog}
+emrecog
